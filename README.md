@@ -16,3 +16,13 @@ To get back to Live Mode just press the button in IO1, again you may want to pre
 
 Disclaimer: Due to the SPI, camera and SD card pins being ocupied, the CLK pin to the TFT display is the same as the flashlight, I recommend you to
 cover it with the enclosure or remove it if you don't feel like needing it
+Also, my ESPCAM model had the USB communication already in the board, but they normally need an adapter to communicate with your PC
+
+Here are the resulting pictures!
+
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/4d19988e-cfd3-459b-a9e7-f6017c06cef2" />
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/3b1d195e-693d-4e24-b07a-4bdcbbd13509" />
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/00bb7756-ccab-43ab-aaa4-5e0b6e835f97" />
+
+Since I didn't make a proper PCB and this was Kind of a last minute idea to project to prototype, my case wasn't the best
+I will try to upload and update with a V2.0
